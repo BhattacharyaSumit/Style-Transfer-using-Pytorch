@@ -3,7 +3,7 @@
 *Style Transfer* is  a method by which we can transfer the content of one image into the another image or convert to style(background impression)
 of one image to match that of another. 
 
-This notebook is completed as an assignment and makes use of **Pytorch** for to achieve the goals.
+This notebook is completed as an assignment and makes use of **Pytorch**  to achieve the goals.
 
 I have used 2 images here -a) An image of Joker (the famous anti-hero) b) A snap of one of the digital posters of the "Matrix" movie.
 
